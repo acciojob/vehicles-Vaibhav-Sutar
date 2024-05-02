@@ -1,6 +1,7 @@
 package com.driver;
 
+// WaterVehicle interface
 public interface WaterVehicle {
-    public String getVehicleName();
-    public int getVehicleCapacity();
+    String getVehicleName();
+    int getVehicleCapacity();
 }
